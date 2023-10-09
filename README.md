@@ -1,7 +1,7 @@
 <h2>Introduction</h2>
 <br>Robot Framework with Python for UI Automation
 
-<b>Pre-Requisite</b><
+<b>Pre-Requisite</b>
 1. Install Python
 2. Install Pycharm IDE 
 3. Install Selenium 
